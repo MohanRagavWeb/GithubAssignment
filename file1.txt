@@ -4,6 +4,8 @@ changes made to fetch and pull from remote to local repo
 CHANGES MADE IN BRANCH1
 CHANGES MADE IN SAME LINE AS FEATURE-BRANCH IN MAIN BRANCH FOR CONFLICTS
 
-
-
+commit 1 
+commit 2
+commit 3
+commit one
 
