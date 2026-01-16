@@ -5,7 +5,11 @@ CHANGES MADE IN BRANCH1
 CHANGES MADE IN SAME LINE AS FEATURE-BRANCH IN MAIN BRANCH FOR CONFLICTS
 
 commit 1 
+<<<<<<< HEAD
 commit 2
 commit 3
 commit one
 
+=======
+commit 2
+>>>>>>> 12090b4 (second change)
